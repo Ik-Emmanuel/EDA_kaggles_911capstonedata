@@ -1,8 +1,8 @@
 # Exploratory Data Analysis of calls data from kaggles Capstone project. 
 ## By I.K Emmananuel
 
-* [Project Description](#Project Description)
-* [Project Aim](#Project Aim)
+* [Project Description](#ProjectDescription)
+* [Project Aim](#ProjectAim)
 * [Tools](#Tools)
 
 ## Project Description
