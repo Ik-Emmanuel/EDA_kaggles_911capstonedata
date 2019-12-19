@@ -18,5 +18,5 @@ Here I tried to explore the data to pull various insights such as:
  
  ## Tools 
  
- I worked with the jupyter notebook under the anaconda packag. using python 3.6.  
- The dataset "911.csv" was the csv file containing the data
+ * I worked with the jupyter notebook under the anaconda packag. using python 3.6.  
+ * The dataset "911.csv" was the csv file containing the data
