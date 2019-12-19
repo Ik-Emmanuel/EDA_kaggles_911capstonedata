@@ -15,3 +15,8 @@ Here I tried to explore the data to pull various insights such as:
 > what was the most occuring emergency.  
 > what emergencies occured most for each day of the week.  
 > The  number of emergency calls from each township
+ 
+ ## Tools 
+ 
+ I worked with the jupyter notebook under the anaconda packag. using python 3.6.  
+ The dataset "911.csv" was the csv file containing the data
